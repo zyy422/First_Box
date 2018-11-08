@@ -1,0 +1,2 @@
+  The vector is the collection of object. We can seem it as dynamic array. And this ia a kind of class template. The instantiation is a
+process of compiler creates class or function accroding to template.  
